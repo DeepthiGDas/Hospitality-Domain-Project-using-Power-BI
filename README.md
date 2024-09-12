@@ -11,7 +11,7 @@ As a data analyst, I was tasked with helping AtliQ Grands understand their busin
 - Microsoft Excel
 ### Power BI Integration:
 I leveraged Power BI as the primary tool for visualizing and analyzing data in this project. Power BI enabled me to create an intuitive and interactive dashboard, integrating multiple data sources seamlessly. With its robust features, I implemented advanced DAX measures, built calculated columns, and utilized a variety of visuals, including line charts, donut charts, and KPI cards. The tool’s flexibility allowed for the easy creation of filters, slicers, and tooltips, enhancing the user experience and making insights accessible and actionable for decision-makers.
-### During this project, I became familiar with the following key concepts:
+### Key terms & business concepts:
 - Realization%: Percentage of successful ‘checked out’ bookings.
 - RevPAR: Revenue per Available Room.
 - DSRN: Daily Sellable Room Nights.
