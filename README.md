@@ -23,3 +23,5 @@ Designed a dynamic dashboard with tooltips, filters, slicers, and various visual
 - A great dashboard isn’t just about numbers—it’s about clarity, actionability, and foresight.
 - Never underestimate the power of going beyond the brief—there’s always more value to uncover!
 
+Thank you for reading. Feel free to check out my dashboard using the link provided.
+
