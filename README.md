@@ -1,6 +1,7 @@
 # Revenue-Insights-Project-using-Power-BI
 This project involves analyzing historical data for AtliQ Grands, a luxury hotel chain, to help them regain market share and revenue
-## Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiYTgyNzc4Y2MtOTFkYi00YzZlLWJhN2EtMjgzMmJkM2M3OTY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+## Dashboard link: 
+https://app.powerbi.com/view?r=eyJrIjoiYTgyNzc4Y2MtOTFkYi00YzZlLWJhN2EtMjgzMmJkM2M3OTY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 ## Project Overview
 In the ever-competitive world of hospitality, staying ahead of the curve requires more than just great service—it demands data-backed strategies. AtliQ Grands, a luxury hotel chain with 20+ years of legacy, found itself facing a tough situation. Competitors were gaining ground, and ineffective decision-making was eating into their market share and revenue.
 
