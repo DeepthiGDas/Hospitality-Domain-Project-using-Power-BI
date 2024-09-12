@@ -9,15 +9,8 @@ As a data analyst, I was tasked with helping AtliQ Grands understand their busin
 ### Tools Used:
 - Power BI
 - Microsoft Excel
-### Methodology:
-#### Data Manipulation & Transformation: 
-Used Power Query to clean and transform historical data.
-#### Data Modeling: 
-Developed data model (Star Schema) to structure and integrate data effectively, ensuring insightful and coherent analysis.
-#### DAX Measures & Calculated Columns: 
-Created 26 DAX measures and calculated columns to facilitate detailed analysis.
-#### Dashboard Creation: 
-Designed a dynamic dashboard with tooltips, filters, slicers, and various visualizations including line and column charts, donut charts, KPI cards, and tables with key metrics.
+### Power BI Integration:
+I leveraged Power BI as the primary tool for visualizing and analyzing data in this project. Power BI enabled me to create an intuitive and interactive dashboard, integrating multiple data sources seamlessly. With its robust features, I implemented advanced DAX measures, built calculated columns, and utilized a variety of visuals, including line charts, donut charts, and KPI cards. The tool’s flexibility allowed for the easy creation of filters, slicers, and tooltips, enhancing the user experience and making insights accessible and actionable for decision-makers.
 ### Key Takeaways:
 - In the hospitality industry, the right data insights can unlock doors to new growth.
 - A great dashboard isn’t just about numbers—it’s about clarity, actionability, and foresight.
