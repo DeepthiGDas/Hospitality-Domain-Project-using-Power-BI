@@ -20,9 +20,9 @@ I leveraged Power BI as the primary tool for visualizing and analyzing data in t
 - ADR: Average Daily Rate.
 - Pareto Principle: The 80/20 rule, where 80% of results come from 20% of efforts.
 ### Important insights derived:
-- Mumbai generates the highest revenue
-- AtliQ Bay has the highest occupancy of 66%
-- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
+- Mumbai generates the highest revenue.
+- Delhi generates the lowest revenue and interestingly Delhi has the highest rating and occupancy.
+- AtliQ Seasons has the lowest occupancy with a low average rating of around 2/5, hence this hotel needs to work on their service or update/work on their hotel ratings.
 
 Thank you for reading. Feel free to check out my dashboard using the link provided.
 
