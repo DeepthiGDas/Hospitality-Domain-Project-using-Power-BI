@@ -11,10 +11,18 @@ As a data analyst, I was tasked with helping AtliQ Grands understand their busin
 - Microsoft Excel
 ### Power BI Integration:
 I leveraged Power BI as the primary tool for visualizing and analyzing data in this project. Power BI enabled me to create an intuitive and interactive dashboard, integrating multiple data sources seamlessly. With its robust features, I implemented advanced DAX measures, built calculated columns, and utilized a variety of visuals, including line charts, donut charts, and KPI cards. The tool’s flexibility allowed for the easy creation of filters, slicers, and tooltips, enhancing the user experience and making insights accessible and actionable for decision-makers.
-### Key Takeaways:
-- In the hospitality industry, the right data insights can unlock doors to new growth.
-- A great dashboard isn’t just about numbers—it’s about clarity, actionability, and foresight.
-- Never underestimate the power of going beyond the brief—there’s always more value to uncover!
+### During this project, I became familiar with the following key concepts:
+- Realization%: Percentage of successful ‘checked out’ bookings.
+- RevPAR: Revenue per Available Room.
+- DSRN: Daily Sellable Room Nights.
+- DURN: Daily Utilized Room Nights.
+- DBRN: Daily Booked Room Nights.
+- ADR: Average Daily Rate.
+- Pareto Principle: The 80/20 rule, where 80% of results come from 20% of efforts.
+### Important insights derived:
+- Mumbai generates the highest revenue
+- AtliQ Bay has the highest occupancy of 66%
+- Delhi tops both in occupancy and rating followed by Hyderabad, Mumbai, Bangalore
 
 Thank you for reading. Feel free to check out my dashboard using the link provided.
 
