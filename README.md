@@ -16,3 +16,8 @@ Developed data model (Star Schema) to structure and integrate data effectively, 
 Created 26 DAX measures and calculated columns to facilitate detailed analysis.
 #### Dashboard Creation: 
 Designed a dynamic dashboard with tooltips, filters, slicers, and various visualizations including line and column charts, donut charts, KPI cards, and tables with key metrics.
+### Key Takeaways:
+- In the hospitality industry, the right data insights can unlock doors to new growth.
+- A great dashboard isn’t just about numbers—it’s about clarity, actionability, and foresight.
+- Never underestimate the power of going beyond the brief—there’s always more value to uncover!
+
