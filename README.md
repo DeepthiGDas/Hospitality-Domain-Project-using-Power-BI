@@ -23,6 +23,16 @@ I leveraged Power BI as the primary tool for visualizing and analyzing data in t
 - Mumbai leads in generating the highest revenue.
 - Delhi brings in the lowest revenue, despite having the highest occupancy and rating.
 - AtliQ Seasons shows the lowest occupancy rate and an average rating of around 2/5, indicating a need for improvement in service quality or a focus on boosting hotel ratings.
+### My Contributions: 
+- Inserted Gauge visual for illustrating average rating of hotels across major cities.
+- Added a tooltip for enhanced hotel category insights
+- Incorporated a stacked bar chart for showing the occupancy by day type (weekend/weekday).
+- Created additional new measures to maintain a dynamic funnel chart effectively managing filter context to ensure it remains unaffected by city slicer selections.
+### Key Takeaways:
+- In the hospitality industry, the right data insights can unlock doors to new growth.
+- A great dashboard isn’t just about numbers—it’s about clarity, actionability, and foresight.
+-	Never underestimate the power of going beyond the brief—there’s always more value to uncover!
+
 
 Thank you for reading. Feel free to check out my dashboard using the link provided.
 
